@@ -64,3 +64,5 @@ you can just console.log to see if the code is running on csr or ssr. we use ssr
 2 ways to use css
 the global css
 module.<component name>.css
+
+we don't need to link google fonts in nextjs. we can see the layout page and see that it's automatically included
