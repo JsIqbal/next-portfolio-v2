@@ -58,3 +58,9 @@ Route grouping helps us to keep track of our files
 Layout component gets in all pages
 loading.jsx : this is the lazy loading extension for user experience. in nextjs we can just write a loader.jsx to view it at data fetching time
 you can just console.log to see if the code is running on csr or ssr. we use ssr for faster loading and csr for client interaction
+
+---
+
+2 ways to use css
+the global css
+module.<component name>.css
