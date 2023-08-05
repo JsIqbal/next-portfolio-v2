@@ -54,3 +54,6 @@ why again?
 The directories are the routes for the brousers.
 
 Route grouping helps us to keep track of our files
+
+Layout component gets in all pages
+loading.jsx : this is the lazy loading extension for user experience. in nextjs we can just write a loader.jsx to view it at data fetching time
